@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3b4c6ef3.css",
-    "main.js": "/portfolio/static/js/main.40691793.js",
+    "main.js": "/portfolio/static/js/main.cde3d8a1.js",
     "static/js/787.a06d51b0.chunk.js": "/portfolio/static/js/787.a06d51b0.chunk.js",
     "static/media/AAPLresults_plot.png": "/portfolio/static/media/AAPLresults_plot.76247eba19c07e14b4ca.png",
     "index.html": "/portfolio/index.html",
     "main.3b4c6ef3.css.map": "/portfolio/static/css/main.3b4c6ef3.css.map",
-    "main.40691793.js.map": "/portfolio/static/js/main.40691793.js.map",
+    "main.cde3d8a1.js.map": "/portfolio/static/js/main.cde3d8a1.js.map",
     "787.a06d51b0.chunk.js.map": "/portfolio/static/js/787.a06d51b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b4c6ef3.css",
-    "static/js/main.40691793.js"
+    "static/js/main.cde3d8a1.js"
   ]
 }
